@@ -1,6 +1,9 @@
-h1 h2 {
+h1  {
     color: limegreen;
     font-size: 20px;
+}
+h2 {
+    color: chartreuse;
 }
 p {
     color: navajowhite;
