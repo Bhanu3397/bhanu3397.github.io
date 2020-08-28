@@ -13,3 +13,34 @@ span{
     font-size: 20px;
     text-align: center;
 }
+.information p {
+    /* font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 5px; */
+    font-size: 20px;
+    width: 90%;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.skills-container {
+    display: flex;
+    flex-direction: row;
+    align-content: space-evenly;
+    margin-top: 5px;
+    line-height: 1.6;
+}
+.skills-column {
+    width: 15%;
+}
+.inner-about-header {
+    font-size: 18px;
+}
+.certificate-link {
+    text-decoration: none;
+}
